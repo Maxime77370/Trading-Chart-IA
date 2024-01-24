@@ -8,6 +8,13 @@ Créé par Maxime Carpentier avec l'aide d'Ambroise Meunier.
 
 Ping Pong Investing Corp. est une application d'investissement dotée d'un moteur TensorFlow, d'une API complète, et d'un visualiseur (VIEWER) pour une expérience utilisateur optimale.
 
+## Installation
+❌ l'API FXCM a été désactivé.
+```
+conda env create -f environment.yml
+conda activate fxcm
+```
+
 ## Améliorations de la Version en Cours
 
 ### API

@@ -39,7 +39,3 @@ Ping Pong Investing Corp. est une application d'investissement dotée d'un moteu
 ### Autres Sections
 
 - Aucune modification pour l'instant dans le moteur TensorFlow. Priorité accordée au VIEWER et à l'API.
-
----
-
-Ce README est conçu pour fournir une vue d'ensemble claire du projet, de ses objectifs, des améliorations en cours, et des moyens de contact. N'hésitez pas à le personnaliser davantage en fonction de l'évolution du projet. 🚀📈

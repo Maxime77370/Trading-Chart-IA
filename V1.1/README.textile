@@ -1,0 +1,27 @@
+Crée par Maxime Carpentier.
+
+Pour Ping Pong investing Corp.
+
+
+Nom de la version: VIEWER UPDATE.
+
+
+Amélioration:
+
+	API:
+
+		Aucune Modification Majeur.
+
+	ENGINE (TensorFlow):
+
+		Changement du nom du dossier de stockage de "TensorFlow" a "ENGINE"
+
+	VIEWER:
+
+		Créeation d'un visualiser.
+		Ajout fenétre avec des dimmensions variables, qui régle la taille de toute les lignes et autres.
+		Ajout de différent indicateurs, tels que EMA, WMA, SMA.
+
+	autre:
+
+		Créeations d'un dossier "DATA" qui stocke tout les données donné par l'API directement au coté des dossier "API", "ENGINE", "VIEWER".

@@ -1,0 +1,4 @@
+*/ENGINE/logs/*
+*/TensorFlow/logs/*
+*.csv
+*.pyc

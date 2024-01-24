@@ -1,0 +1,11 @@
+|ERROR|2021-07-20 13:58:45,464|Socket returns unknown error.
+|ERROR|2021-07-20 13:58:55,467|Socket returns unknown error.
+|ERROR|2021-07-20 13:59:44,663|Socket returns unknown error.
+|ERROR|2021-07-20 13:59:50,146|Socket returns unknown error.
+|ERROR|2021-07-20 14:00:11,369|Socket returns unknown error.
+|ERROR|2021-07-20 14:00:58,867|Socket returns unknown error.
+|ERROR|2021-07-20 14:01:17,757|Socket returns unknown error.
+|ERROR|2021-07-20 14:02:09,858|Socket returns unknown error.
+|ERROR|2021-07-20 14:03:09,811|Socket returns unknown error.
+|ERROR|2021-07-20 14:25:20,076|Connection error: Connection refused by the server
+|ERROR|2021-07-20 14:25:41,628|Connection error: Connection refused by the server

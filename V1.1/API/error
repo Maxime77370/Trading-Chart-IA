@@ -1,0 +1,154 @@
+|ERROR|2021-08-08 17:49:20,651|Connection error: Your token is not authorized, please contact admin@fxcm.com
+|ERROR|2021-08-16 15:29:26,074|Connection error: Your token is not authorized, please contact admin@fxcm.com
+|ERROR|2021-08-16 15:36:53,622|Connection error: Connection refused by the server
+|ERROR|2021-08-16 15:37:10,255|Connection error: Connection refused by the server
+|ERROR|2021-08-16 15:37:33,597|Connection error: Connection refused by the server
+|ERROR|2021-08-16 15:37:46,882|Connection error: Connection refused by the server
+|ERROR|2021-08-16 15:38:45,327|Connection error: Connection refused by the server
+|ERROR|2021-08-16 15:38:54,937|Connection error: Connection refused by the server
+|ERROR|2021-08-16 15:39:17,313|Connection error: Your token is not authorized, please contact admin@fxcm.com
+|ERROR|2021-08-23 02:26:53,320|Connection error: Your token is not authorized, please contact admin@fxcm.com
+|ERROR|2021-08-23 02:27:55,759|FXCM Server reports an unknown error: {'executed': False, 'error': ''}.
+|ERROR|2021-08-23 02:27:55,759|Can not parse server answer to json object: {"response":{"executed":false,"error":""},"instrument_id":"16","period_id":"m5","candles":[]}.
+|ERROR|2021-08-23 02:28:33,291|FXCM reject req trading/get_model with status 520 and msg <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<meta http-equiv="refresh" content="0">
+
+<title>api-demo.fxcm.com | 520: Web server is returning an unknown error</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" type="text/css" media="screen,projection" />
+
+
+</head>
+<body>
+<div id="cf-wrapper">
+
+    
+
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+              
+              <span class="cf-error-type">Error</span>
+              <span class="cf-error-code">520</span>
+            </h1>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 683038860dc740f9 &bull;</span>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2021-08-23 00:28:33 UTC</span>
+            <h2 class="text-gray-600 leading-1.3 text-3xl font-light">Web server is returning an unknown error</h2>
+        </header>
+        
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+                  
+<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Browser</h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">Paris</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Cloudflare</h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">api-demo.fxcm.com</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Host</h3>
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+</div>
+
+                </div>
+              
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.</p>
+                </div>
+              
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                          <h3 class="text-15 font-semibold mb-2">If you are a visitor of this website:</h3>
+      <p class="mb-6">Please try again in a few minutes.</p>
+
+      <h3 class="text-15 font-semibold mb-2">If you are the owner of this website:</h3>
+      <p><span>There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team.  Please include the Ray ID (which is at the bottom of this error page).</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171936-Error-520">Additional troubleshooting resources</a>.</p>
+                </div>
+            </div>
+              
+        </div>
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">683038860dc740f9</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 92.118.99.7</span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+
+.
+|ERROR|2021-08-23 02:29:22,671|Socket returns unknown error.
+|ERROR|2021-08-23 02:29:24,862|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2021-08-23 02:29:24,862|URL: https://api-demo.fxcm.com:443/trading/subscribe
+|ERROR|2021-08-23 02:29:24,863|Headers: {'User-Agent': 'request', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive', 'Authorization': 'Bearer 9Gu6V8h0twqWDw2xADMQf76580f554aaacd1dac424d680c3ce2d117baad5', 'Content-Type': 'application/x-www-form-urlencoded', 'Content-Length': '21'}
+|ERROR|2021-08-23 02:29:24,863|Params: {'models': 'ClosedPosition'}
+|ERROR|2021-08-23 02:29:24,863|Bearer token: Bearer 9Gu6V8h0twqWDw2xADMQf76580f554aaacd1dac424d680c3ce2d117baad5
+|ERROR|2021-08-23 02:29:24,863|Connection status: established
+|ERROR|2021-08-23 02:29:24,863|Socket session id: 9Gu6V8h0twqWDw2xADMQ
+|ERROR|2021-08-23 02:29:24,863|Can not parse server answer to json object: {"response":{"executed":false,"error":"Unauthorized"}}.
+|ERROR|2021-08-23 02:29:25,053|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2021-08-23 02:29:25,054|URL: https://api-demo.fxcm.com:443/candles/16/m5?num=10000
+|ERROR|2021-08-23 02:29:25,054|Headers: {'User-Agent': 'request', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive', 'Authorization': 'Bearer 9Gu6V8h0twqWDw2xADMQf76580f554aaacd1dac424d680c3ce2d117baad5', 'Content-Type': 'application/x-www-form-urlencoded'}
+|ERROR|2021-08-23 02:29:25,054|Params: {'num': 10000}
+|ERROR|2021-08-23 02:29:25,054|Bearer token: Bearer 9Gu6V8h0twqWDw2xADMQf76580f554aaacd1dac424d680c3ce2d117baad5
+|ERROR|2021-08-23 02:29:25,054|Connection status: established
+|ERROR|2021-08-23 02:29:25,054|Socket session id: 9Gu6V8h0twqWDw2xADMQ
+|ERROR|2021-08-23 02:29:25,054|Can not parse server answer to json object: {"response":{"executed":false,"error":"Unauthorized"},"instrument_id":0,"period_id":0,"candles":[]}.
+|ERROR|2021-08-23 02:30:05,232|FXCM Server reports an unknown error: {'executed': False, 'error': ''}.
+|ERROR|2021-08-23 02:30:05,232|Can not parse server answer to json object: {"response":{"executed":false,"error":""},"instrument_id":"16","period_id":"m5","candles":[]}.
+|ERROR|2021-08-23 02:30:50,684|FXCM Server reports an unknown error: {'executed': False, 'error': ''}.
+|ERROR|2021-08-23 02:30:50,685|Can not parse server answer to json object: {"response":{"executed":false,"error":""},"instrument_id":"16","period_id":"m5","candles":[]}.
+|ERROR|2021-08-23 02:31:12,134|FXCM Server reports an unknown error: {'executed': False, 'error': ''}.
+|ERROR|2021-08-23 02:31:12,140|Can not parse server answer to json object: {"response":{"executed":false,"error":""},"instrument_id":"16","period_id":"m15","candles":[]}.
+|ERROR|2021-08-23 02:31:26,304|Error in get_candles: Illegal period: h1.
+|ERROR|2021-08-23 02:31:37,982|FXCM Server reports an unknown error: {'executed': False, 'error': ''}.
+|ERROR|2021-08-23 02:31:37,982|Can not parse server answer to json object: {"response":{"executed":false,"error":""},"instrument_id":"16","period_id":"H1","candles":[]}.
+|ERROR|2021-08-23 02:32:51,408|Socket returns unknown error.
+|ERROR|2021-08-23 02:33:15,206|FXCM Server reports an unknown error: {'executed': False, 'error': ''}.
+|ERROR|2021-08-23 02:33:15,206|Can not parse server answer to json object: {"response":{"executed":false,"error":""},"instrument_id":"16","period_id":"m5","candles":[]}.
+|ERROR|2021-08-23 02:33:26,706|FXCM Server reports an unknown error: {'executed': False, 'error': ''}.
+|ERROR|2021-08-23 02:33:26,706|Can not parse server answer to json object: {"response":{"executed":false,"error":""},"instrument_id":"16","period_id":"m5","candles":[]}.

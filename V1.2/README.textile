@@ -1,0 +1,46 @@
+Crée par Maxime Carpentier avec l'aide D'Ambroise Meunier.
+
+Pour Ping Pong investing Corp.
+
+
+Nom de la version: ? (En attente d'un bon nom et aussi de modifaction majeur qui pourrais donné le nom a la version).
+
+
+Amélioration:
+
+	API:
+
+		Objectif Maxime:
+
+			-faire toute les time frame.
+			-faire des système de backup
+			-crée un systéme d'assemblage des enciennes données
+
+		Objectif Ambroise:
+
+			-ce familiariser avec le codage.
+			-détecter les erreurs des indicateurs a l'aide du VIEWER
+			-corriger les erreurs lier a un probleme de calcule.
+
+	ENGINE (TensorFlow):
+
+		Aucune modification pour l'instant. Priorité au VIEWER et a l'API
+
+	VIEWER:
+
+		Objectif:
+
+			-crée une interface de changement des pairs et des indicateurs
+
+		Fini:
+
+			-découverte et corréction du bug de l'inversement des cours
+			-visualisation du prix du marcher au niveau du pointeur (peu précis mais fonctionnel)
+			-nouveau système de dézoomage plus rapide et plus simple
+			-correction du bug quand l'on dépasse le nombre de bougie maximal de 99999, avec une limite au dézoomage avant le bug ainsi que lors du déplacement dans l'axe x impossible d'allé a plus de 99999).
+			-modification mineur du conteur de bougie en haut a gauche qui affiche la nombre de la bougie la plus récente afficher c'est a dire la plus a droite.
+			-crée une inteface d'activation ou désactivation des indicateurs
+
+	autre:
+
+		
